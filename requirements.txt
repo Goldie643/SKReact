@@ -2,7 +2,7 @@
 # https://github.com/damnever/pigar
 
 # skreact.py: 35
-Pillow == 6.2.1
+Pillow == 8.1.1
 
 # skreact.py: 14
 fit == 0.4.1
