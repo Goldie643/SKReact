@@ -17,7 +17,7 @@ matplotlib == 3.1.1
 # reactor.py: 15
 # skreact.py: 32
 # smear.py: 13
-numpy == 1.16.4
+numpy == 1.22.0
 
 # fit.py: 8
 # params.py: 9
