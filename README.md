@@ -127,7 +127,7 @@ and `eff` is the efficiency of detection at that energy. You can generate this
 yourself using your detector simulator by generating samples at fixed energies,
 reconstructing them and fitting a gaussian. If you are an SK collaborator,
 contact
-[alexander.goldsack@physics.ox.ac.uk](alexander.goldsack@physics.ox.ac.uk) for a
+[alexander.goldsack@kcl.ac.uk](alexander.goldsack@kcl.ac.uk) for a
 WIT smearing file.
 
 SKReact also has a (crude) fitter, which will vary selected oscillation
@@ -147,7 +147,7 @@ optimisation/parallelisation.
 
 For any issues, suggestions, enhancements or bugs, please post an issue on
 the repository's issues page. To contact me directly, please email
-[alexander.goldsack@physics.ox.ac.uk](alexander.goldsack@physics.ox.ac.uk),
+[alexander.goldsack@kcl.ac.uk](alexander.goldsack@kcl.ac.uk),
 however please be aware my support for SKReact is primarily limited to my own
 requirements and so I will have to weigh up the time/personal usefulness for any
 modifications.
