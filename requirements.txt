@@ -37,7 +37,7 @@ params == 0.8.1
 reactor == 0.1.4
 
 # skreact.py: 15
-scipy == 1.9.3
+scipy == 1.10.0
 
 openpyxl == 3.1.2
 xlrd == 2.0.1
